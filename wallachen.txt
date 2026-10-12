@@ -1,0 +1,14 @@
+must beat/ must trump / must overtrump  
+          declarer plays first  
+          trump is determined by first suit led 
+
+          bid must start from 6, can be matched by older seat 
+          6 tricks (6pts), ...  (no 10 tricks) , bettel (20pts), mord (30pts) (or fixed stake 5/20/30)
+          can raise to bettem/mord after taking talon 
+          bettel/mord: No Trump 
+
+ doubling during deal (first 3 cards)
+ doubling during 1st trick (defender can individually double when playing their first card,declarer can re-double at the end of the trick)
+
+          if no bid, re-deal, next round stake x2
+          
