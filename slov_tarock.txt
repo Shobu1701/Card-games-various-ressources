@@ -1,0 +1,26 @@
+any typical mistake / counter-intuitive decision beginners may make?
+Passing on a Three that may lose when a Clop could actually be worse. Whenever you pass, you really need to pay attention to how many points you could readily lose (your cards plus the ones you would win from opponents).
+If you think you are going to get roughly 25+ it is almost better to call a Three and fail--with the chance that you could win--since you will almost certainly lose less points in a failed Three and not cause radlci (he calls them bullets, which I prefer that to radlci ??) to be added.
+Seeing bidding chart and extra info below!
+As declarer, don't lead Kings early in the hand, especially if it is your only card in that suit. You almost always just get the 0pt cards from your oppts and you do not want your opponents to know which suits you are shortest in that early. Let your oppts lead that suit and hold onto the King when you know it will win more points...most likely this will happens towards the end of the hand because your oppts are trying to avoid leading that suit as well. And the later in the hand it happens the better chance you win it without your other oppt playing a tarock (as they should hopefully be out of them by then).
+Going off the previous point, more often than not you will not capture all four kings (especially if you don't hold them). So, decide what that one suit will be and accept you won't gain points from that suit. Hands can still be won from winning the other suits you have.
+Continuing off those points, any kingless suit you are shorter in, 1-2 cards, should not be lead by you.
+Kind of obvious, but players should always assume a Pagat Ultimo is happening until the Tarok 1 is played. If you have less than 12 taroks a Pagat Ultimo is very risky!
+
+The oppts need to really sync up to stop the declarer. There is a decently sized section in the book, 7 pages plus examples, on how the partners need to figure out who is the "strong" teammate and who is the "weak" teammate, including ways to figure that out through card play, and what should be lead/followed.
+
+ Like which cards to put back in the talon
+When talon exchanging, beside the obvious want for the highest/best taroks and avoiding suits that would keep you void in a kingless suit, you should strongly consider taking cards in a kingless suit that you cannot become void in after the exchange. Then, these become your lead cards that you will play to force opponents to play taroks early. As mentioned a couple bullet points above, hands can still be won from winning the other suits you have. So don't be afraid to lose one suit to burn oppt taroks and make it easier to win a lot of points toward the end of the hand.
+
+Is it a thing to aim for a bonus without caring about the main contract?
+In all possible situations/strategies discussed in the book there is always focus on winning the main contract. That is because announcements in this game generally pair well with winning a contract. So, if you are succeeding at the game, you should naturally be succeeding at your announcement. It is extremely rare that a non-declarer would call anything, so the declarer is the one making the moves. 
+
+
+Nope, it just lists the typical traditional playstyle of determine the number of rounds in advance and play until then.
+The Joker round is an option as well: choose when you want to stop playing and in that hand the player who is dealt the Fool/Excuse/Tarock 22 announces they have it. Keep playing until that player is dealer again.
+
+Oh, and they play where bullets (radlci) are giving as a group thing, not an individual thing.
+For example, if Clop is played, in the Pagat rules 1 bullet is given to each player at the end of the hand, which is -100pts at the end of the game.
+However, he plays it where 3 bullets are provided to the table, not worth any negative points at the end of the game. They work exactly the same during gameplay, except they are first come, first served.
+He does explain that others play with individual bullets, but he prefers group bullets as it provides more urgency to bid and play when bullets are out. You want to take advantage of a bullet to score double, but if you fail you lose double and may not get a good hand again until after the bullets are closed.
+
